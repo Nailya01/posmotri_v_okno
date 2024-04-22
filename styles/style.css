@@ -53,7 +53,7 @@ ol {
 
 .title {
   margin-bottom: 26px;
-  font-family: 'Oswald', sans-serif;
+  font-family: Oswald, sans-serif;
   font-weight: 700;
   font-size: 75px;
   line-height: calc(70.5 / 75 * 100%);
@@ -131,7 +131,7 @@ ol {
   text-transform: uppercase;
   padding: 2px 2px 6px;
   color: #fff;
-  font-family: 'Oswald', sans-serif;
+  font-family: Oswald, sans-serif;
   font-weight: 700;
   font-size: 30px;
   line-height: 1;
