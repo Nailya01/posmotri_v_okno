@@ -53,7 +53,7 @@ ol {
 
 .title {
   margin-bottom: 26px;
-  font-family: Oswald, sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 75px;
   line-height: calc(70.5 / 75 * 100%);
@@ -72,8 +72,7 @@ ol {
 .content__list {
   position: relative;
   height: 295px;
-  margin-top: 30px;
-  padding: 3px;
+  padding: 0 3px 3px;
   overflow-x: hidden;
 }
 
@@ -132,7 +131,7 @@ ol {
   text-transform: uppercase;
   padding: 2px 2px 6px;
   color: #fff;
-  font-family: Oswald, sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 30px;
   line-height: 1;
@@ -221,10 +220,10 @@ ol {
   border-right: 0;
   border-bottom: 1px solid #fff;
   border-left: 0;
-  inline-size: 228px;
-  padding: 2px 14px 2px 0;
+  inline-size: 225px;
+  padding: 2px 0;
   color: rgba(255, 255, 255, 0.7);
-  font-family: Fira Sans Condensed, sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
@@ -271,7 +270,7 @@ ol {
 .button {
   padding: 6px 74px;
   border: 1px solid currentColor;
-  font-family: Fira Sans Condensed, sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: calc(21.6 / 18 * 100%);
